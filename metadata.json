@@ -1,0 +1,5 @@
+{
+  "name": "Community Fund Nexus",
+  "description": "A responsive, secure, and user-friendly web application for community fund collection and management across multiple villages, with data synced in real-time with Google Sheets.",
+  "requestFramePermissions": []
+}
